@@ -1,17 +1,17 @@
 {
-  "title": "<Diehard>",
-  "description": "<In a superpowered world our protaganist has to die over and over again to improve.>",
-  "artist": "<Matt>",
-  "author": "<Matt>",
-  "cover": "<https://i.imgur.com/jR27Vi5.png>",
+  "title": "Diehard",
+  "description": "Our protagonist is hit by a truck, but he's not reincarnated to a fantasy world 😑. It seems the world has changed, time to die.",
+  "artist": "mat",
+  "author": "mat",
+  "cover": "https://i.imgur.com/jR27Vi5.png",
   "chapters": {
-    "<1>": {
-      "title": "<Death - 1>",
-      "volume": "<1>",
+    "1": {
+      "title": "Death - 1", 
+      "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<bZbKHjg>/"
+        "": "/proxy/api/imgur/chapter/bZbKHjg"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1610380241"
     },
   }
 }
